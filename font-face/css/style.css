@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Cantarell";
+    src: url(../font/Cantarell-Bold.ttf) format('truetype');
+}
+
+h1 {
+    font-family: "Cantarell";
+    font-size: 100px;
+}
