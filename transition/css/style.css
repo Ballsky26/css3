@@ -16,7 +16,6 @@ body {
     transition: margin-left 1s;
 }
 
-
 .container:hover .kotak {
     transform: rotate(720deg);
     margin-left: 800px;
