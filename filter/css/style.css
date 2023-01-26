@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+/* Filter
+    blur(px)
+    brightness (angka | %)
+    contrast (angka | %)
+    saturate (angka | %)
+    grayscale (angka | %)
+    sepia (angka | %)
+    hue-rotate(deg)
+    invert (angka | %)
+    opacity (angka | %)
+    drop-shadow (sama seperti box-shadow)
+    */
+img {
+    width: 200px;
+    filter: brightness(200%) grayscale(100%);
+    transition: 1;
+}
+
+img:hover {
+    width: 200px;
+    filter: brightness(0) grayscale(0);
+}
