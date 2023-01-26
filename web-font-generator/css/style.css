@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Cantarell";
+    src: url(../font/Cantarell-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nobile-Regular';
+    src: url(../font/Nobile-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: "Nobile-Regular";
+    font-size: 100px;
+}
